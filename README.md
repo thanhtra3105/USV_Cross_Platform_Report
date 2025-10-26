@@ -1,8 +1,11 @@
 # Cross-Platform Programming Project
 
-## This is the Cross-Platform Programming report submit to Dr. Nguyen Duy Nhat Vien
-Our team is Toàn - Trà
-Our report includes 3 part: docs, ppts and codes
-- In docs, have a Report.
-- In docs, have a Report.
-- In codes, have code demo for our project.
+## This is the Cross-Platform Programming report to be submitted to Dr. Nguyen Duy Nhat Vien
+
+### Our team members: Toàn & Trà
+
+Our report includes three parts: **Docs**, **PPTs**, and **Codes**.
+
+- In **Docs**, there is the main report document.  
+- In **PPTs**, there is the presentation slide.  
+- In **Codes**, there is the demo source code for our project.
