@@ -106,7 +106,6 @@ class _DashboardPageState extends State<DashboardPage> {
     Timer.periodic(Duration(seconds: 3), (timer) async {
       try {
         final data = await fetchAll(); // lay gia tri moi de cao nhat chart
-        final now = DateTime.now().millisecondsSinceEpoch;
         setState(() {
           phHistory.add(FlSpot(timeIndex.toDouble(), data["pH"]!));
           doHistory.add(FlSpot(timeIndex.toDouble(), data["DO"]!));
