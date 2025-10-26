@@ -4,8 +4,8 @@
 
 ### Our team members: Toàn & Trà
 
-Our report includes three parts: **Docs**, **PPTs**, and **Codes**.
+Our report includes three parts: **docs**, **ppts**, and **codes**.
 
-- In **Docs**, there is the main report document.  
-- In **PPTs**, there is the presentation slide.  
-- In **Codes**, there is the demo source code for our project.
+- In **docs**, there is the main report document.  
+- In **ppts**, there is the presentation slide.  
+- In **codes**, there is the demo source code for our project.
