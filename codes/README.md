@@ -1,10 +1,11 @@
 # 🚤 USV Cross-Platform Dashboard
 
+## 1. Introduction
 A **Flutter application** for displaying and monitoring data from an **USV (Unmanned Surface Vehicle)** — including real-time operational metrics and water quality indicators.
 
 ---
 
-## ⚙️ System Features
+## 2. System Features
 
 | **Feature** | **Description** | **Data Details** |
 |--------------|----------------|------------------|
@@ -15,9 +16,9 @@ A **Flutter application** for displaying and monitoring data from an **USV (Unma
 
 ---
 
-## 🧩 3. Installation & Run Guide
+## 3. Installation & Run Guide
 
-### 🧰 3.1. Prerequisites
+### 3.1. Prerequisites
 
 - **Flutter SDK:** Ensure that Flutter is installed and environment variables are properly set.  
   Check with the command:
